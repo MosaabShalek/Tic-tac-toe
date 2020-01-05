@@ -1,4 +1,2 @@
 # Tic-tac-toe
-this game is intended to be played between two players, not between a player and a computer.
-Have Fun ^_^
-MSK
+I presume, that this is one of the simplest ways to make a Tic-tac-toe game in python
